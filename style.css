@@ -1,0 +1,260 @@
+#boss{
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 5%;
+}
+
+
+.missoin{
+    display: inline;
+}
+#picture{
+    height: 350px;
+    width: auto;
+    float: right;
+    margin-right: 25%;
+    border-radius: 10px;
+
+}
+#yellow{
+    color: rgb(209, 160, 24);
+    
+}
+#Hello{
+    border-left: rgb(204, 19, 19) solid 3px;
+    font-size: 30px;
+}
+h1{
+    margin-left: 5px;
+}
+.text{
+    width: 40%;
+    height: auto;
+}
+.explore{
+   background-color: rgb(204, 19, 19);
+   width: 10%;
+   height: auto;
+   color: white;
+   padding: 11px;
+   border-radius: 4px;
+}
+p{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+#go{
+    margin-top: 80px;
+    
+}
+#flex{
+    display: flex;
+    margin-top: 20px;
+}
+.headline{
+    font-size: 50px;
+    text-align: center;
+}
+.color {
+    color: rgb(209, 160, 24);
+}
+
+.one{
+width: 30%;
+height: auto;
+margin-left: 50px;
+background-color: rgb(171, 248, 240);
+border-radius: 15px;
+}
+.two{
+    width: 30%;
+    height: auto;
+    margin-left: 50px;
+    background-color: rgb(190, 248, 240);
+    border-radius: 15px;
+}
+.three{
+    width: 30%;
+    height: auto;
+    margin-left: 50px;
+    background-color: rgb(200, 248, 240);
+    border-radius: 15px;
+}
+.onep{
+    width: 110px;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.twop{
+    width: 90px;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+.threep{
+    width: 200px;
+    height: auto;
+    margin-left: 40%;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+.dilam{
+    color: red;
+    
+}
+
+
+
+.divone {
+ margin-top: 100px;
+}
+
+
+
+#oneone{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    float: left;
+    margin-top: 55px;
+}
+
+.golpo {
+    width: 50%;
+    height: auto;
+}
+.pore{
+    background-color: rgb(204, 19, 19);
+    color: white;
+    width: 26%;
+    height: auto;
+     border-radius: 5px;
+    padding: 5px;
+ }
+.akash {
+    
+    margin-left: 350px;
+}
+.goru{
+ font-size: 40px;
+}
+
+.biral{
+    font-size: 40px;
+}
+
+
+
+
+.divtwo {
+    margin-top: 150px;
+   }
+   
+  
+   
+   .agep {
+       width: 50%;
+       height: auto;
+   }
+   
+   .twotwo {      
+
+       width: auto;
+       height: 265px;
+       border-radius: 10px;
+       margin-top: 55px;
+      
+       
+   }
+   .biccu{
+       display: flex;
+       margin-left: 150px;
+   }
+   .aged{
+        font-size: 40px;
+   }
+   .agew{
+       font-size: 40px;
+   }
+   .ager{
+       background-color: rgb(204, 19, 19);
+       color: white;
+       width: 35%;
+       height: auto;
+        border-radius: 5px;
+       padding: 5px;
+    }
+
+
+
+    .last{
+        margin-top: 200px;
+    }
+    .h1 {
+        text-align: center;
+    }
+    .span {
+        color: rgb(85, 24, 85);
+    }
+    .lastphoto{
+        width: 200px;
+        height:auto;
+        border-radius: 10px;
+    }
+    .inline{
+        display: inline;
+    }
+
+    .lali{
+        width: 40%;
+        margin-left: 150px;
+    }
+    .bali {
+        background-color: rgb(190, 29, 29);
+        margin-left: 150px;
+        width: 10%;
+        height: auto;
+        padding: 5px;
+        border-radius: 5px;
+        color: whitesmoke;
+    }
+    .doubleinline{
+        display: flex;
+    }
+
+
+
+
+
+
+
+    #footer{
+        margin-top: 50px;
+        background-color: rgb(240, 231, 231);
+        height: 80px;
+        width: 100%;
+        
+        color: rgb(56, 52, 52);
+    }
+    .hh{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .pp{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .cc{
+        color: tomato;
+    }
